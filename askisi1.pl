@@ -16,4 +16,3 @@ print "Lowercase sequence: $lower\n";
 my $reversed = reverse($dna);
 print "Reversed sequence: $reversed\n";
 
-s
